@@ -4,13 +4,13 @@ entries:
   - annotations:
       category: Application
     apiVersion: v2
-    appVersion: 8.0.31
+    appVersion: 1.0
     created: "2023-02-23T13:20:46.609747784+08:00"
     dependencies:{}
     description: bookinfo example for istio.
     digest: {}
-    home: https://github.com/bitnami/charts/tree/master/bitnami/mysql
-    icon: https://bitnami.com/assets/stacks/mysql/img/mysql-stack-220x234.png
+    home: {}
+    icon: {}
     keywords:
     - istio
     - bookinfo
@@ -21,6 +21,6 @@ entries:
     name: bookinfo
     sources:{}
     urls:
-    - mysql-9.4.1.tgz
+    - bookinfo.tar.gz
     version: 1.0
 generated: "2023-02-23T13:20:46.581160247+08:00"
